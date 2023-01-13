@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1>Hi, I'm Denis Knight <br/><a href="https://github.com/DenisknightOtieno">Front-end developer</a>, <a href="www.linkedin.com/in/denis-knight-269477233">Front-end developer</a> </h1>
 
-<!--
-**DenisknightOtieno/DenisknightOtieno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Website Projects:</h2>
+<p>I am currently completing my web-development course. Here are some of the examples of what i have done so far:
+</p>
+   <b><a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-tribute-page-project/build-a-tribute-page">Css flexbox photo gallery</a></b>
+- <b><a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-tribute-page-project/build-a-tribute-page">Tribute Page</a></b>
+- <b><a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-basic-css-by-building-a-cafe-menu/step-91">Cafe Menu </a> </b>
+  -
+<h2> 🤳 Connect with me:</h2>
 
-Here are some ideas to get you started:
+<a href="https://twitter.com/@denisknight13">Twitter</a>
+<a href="www.linkedin.com/in/denis-knight-269477233">LinkedIn</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
