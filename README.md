@@ -1,4 +1,4 @@
-<h1>Hi, I'm Denis Knight <br/><a href="https://github.com/DenisknightOtieno">Front-end developer</a>, <a href="www.linkedin.com/in/denis-knight-269477233">Front-end developer</a> </h1>
+<h1>Hi, I'm Denis Knight <br/><a href="https://github.com/DenisknightOtieno">Front-end developer</a>, <a href="www.linkedin.com/in/denis-knight-269477233">Web-developer</a> </h1>
 
 <h2>👨‍💻 Website Projects:</h2>
 <p>I am currently completing my web-development course. Here are some of the examples of what i have done so far:
