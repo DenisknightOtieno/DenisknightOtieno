@@ -4,11 +4,10 @@
    </b></p>
 
 <h2>👨‍💻 Website Projects:</h2><br>
-
-   -<b><a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-tribute-page-project/build-a-tribute-page">Css flexbox photo gallery</a></b>
-- <b><a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-tribute-page-project/build-a-tribute-page">Tribute Page</a></b>
-- <b><a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-basic-css-by-building-a-cafe-menu/step-91">Cafe Menu </a></b>
-   -<b><a href="https://github.com/DenisknightOtieno/ecomerce.git">Ecommerce landing page</a></b>
+-<b><a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-tribute-page-project/build-a-tribute-page">Css flexbox photo gallery</a></b>
+-<b><a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-tribute-page-project/build-a-tribute-page">Tribute Page</a></b>
+-<b><a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-basic-css-by-building-a-cafe-menu/step-91">Cafe Menu </a></b>
+-<b><a href="https://github.com/DenisknightOtieno/ecomerce.git">Ecommerce landing page</a></b>
   
 <h2> 🤳 Connect with me:</h2>
 
